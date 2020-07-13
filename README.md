@@ -1,2 +1,3 @@
 # hello-world
-Just another Repository
+My name is John!
+I have a BS in Biochemistry/Biotechnology but now i am interested in a career in programming!
